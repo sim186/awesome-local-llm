@@ -44,8 +44,9 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 ## Inference platforms
 
 - [LM Studio](https://lmstudio.ai/) - discover, download and run local LLMs
-- <img src="https://img.shields.io/github/stars/menloresearch/jan?style=social" height="17" align="texttop"/> [jan](https://github.com/menloresearch/jan) - an open source alternative to ChatGPT that runs 100% offline on your computer
+- <img src="https://img.shields.io/github/stars/unslothai/unsloth?style=social" height="17" align="texttop"/> [unsloth](https://github.com/unslothai/unsloth) -  unified web UI for training and running open models like Qwen, DeepSeek, and Gemma locally
 - <img src="https://img.shields.io/github/stars/mudler/LocalAI?style=social" height="17" align="texttop"/> [LocalAI](https://github.com/mudler/LocalAI) -  the free, open-source alternative to OpenAI, Claude and others
+- <img src="https://img.shields.io/github/stars/menloresearch/jan?style=social" height="17" align="texttop"/> [jan](https://github.com/menloresearch/jan) - an open source alternative to ChatGPT that runs 100% offline on your computer
 - <img src="https://img.shields.io/github/stars/ChatBoxAI/ChatBox?style=social" height="17" align="texttop"/> [ChatBox](https://github.com/ChatBoxAI/ChatBox) - user-friendly desktop client app for AI models/LLMs
 - <img src="https://img.shields.io/github/stars/lemonade-sdk/lemonade?style=social" height="17" align="texttop"/> [lemonade](https://github.com/lemonade-sdk/lemonade) - a local LLM server with GPU and NPU Acceleration
 
@@ -210,7 +211,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ### Models
 
-- <img src="https://img.shields.io/github/stars/unslothai/unsloth?style=social" height="17" align="texttop"/> [unsloth](https://github.com/unslothai/unsloth) - fine-tuning & reinforcement learning for LLMs
+- <img src="https://img.shields.io/github/stars/AlexsJones/llmfit?style=social" height="17" align="texttop"/> [llmfit](https://github.com/AlexsJones/llmfit) - hundreds of models & providers, one command to find what runs on your hardware
 - <img src="https://img.shields.io/github/stars/dottxt-ai/outlines?style=social" height="17" align="texttop"/> [outlines](https://github.com/dottxt-ai/outlines) - structured outputs for LLMs
 - <img src="https://img.shields.io/github/stars/p-e-w/heretic?style=social" height="17" align="texttop"/> [heretic](https://github.com/p-e-w/heretic) - fully automatic censorship removal for language models
 - <img src="https://img.shields.io/github/stars/mostlygeek/llama-swap?style=social" height="17" align="texttop"/> [llama-swap](https://github.com/mostlygeek/llama-swap) - reliable model swapping for any local OpenAI compatible server - llama.cpp, vllm, etc.
