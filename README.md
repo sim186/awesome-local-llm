@@ -231,8 +231,6 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 ### Models
 
 - <img src="https://img.shields.io/github/stars/AlexsJones/llmfit?style=social" height="17" align="texttop"/> [llmfit](https://github.com/AlexsJones/llmfit) - hundreds of models & providers, one command to find what runs on your hardware
-- <img src="https://img.shields.io/github/stars/p-e-w/heretic?style=social" height="17" align="texttop"/> [heretic](https://github.com/p-e-w/heretic) - fully automatic censorship removal for language models
-- <img src="https://img.shields.io/github/stars/huggingface/trl?style=social" height="17" align="texttop"/> [trl](https://github.com/huggingface/trl) - train transformer language models with reinforcement learning
 - <img src="https://img.shields.io/github/stars/dottxt-ai/outlines?style=social" height="17" align="texttop"/> [outlines](https://github.com/dottxt-ai/outlines) - structured outputs for LLMs
 - <img src="https://img.shields.io/github/stars/mostlygeek/llama-swap?style=social" height="17" align="texttop"/> [llama-swap](https://github.com/mostlygeek/llama-swap) - reliable model swapping for any local OpenAI compatible server - llama.cpp, vllm, etc.
 
@@ -370,9 +368,13 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ### Training and Fine-tuning
 
+- <img src="https://img.shields.io/github/stars/p-e-w/heretic?style=social" height="17" align="texttop"/> [heretic](https://github.com/p-e-w/heretic) - fully automatic censorship removal for language models
+- <img src="https://img.shields.io/github/stars/huggingface/sentence-transformers?style=social" height="17" align="texttop"/> [sentence-transformers](https://github.com/huggingface/sentence-transformers) - a Python library for using and training embedding and reranker models for applications like retrieval augmented generation, semantic search, and more
+- <img src="https://img.shields.io/github/stars/huggingface/trl?style=social" height="17" align="texttop"/> [trl](https://github.com/huggingface/trl) - train transformer language models with reinforcement learning
 - <img src="https://img.shields.io/github/stars/OpenRLHF/OpenRLHF?style=social" height="17" align="texttop"/> [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) - an easy-to-use, high-performance open-source RLHF framework built on Ray, vLLM, ZeRO-3 and HuggingFace Transformers, designed to make RLHF training simple and accessible
 - <img src="https://img.shields.io/github/stars/kiln-ai/kiln?style=social" height="17" align="texttop"/> [Kiln](https://github.com/kiln-ai/kiln) - the easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets
 - <img src="https://img.shields.io/github/stars/e-p-armstrong/augmentoolkit?style=social" height="17" align="texttop"/> [augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit) - train an open-source LLM on new facts
+- <img src="https://img.shields.io/github/stars/AgentToolkit/altk-evolve?style=social" height="17" align="texttop"/> [altk-evolve](https://github.com/AgentToolkit/altk-evolve) - a system designed to help agents improve over time by learning from their trajectories
 
 [Back to Table of Contents](#table-of-contents)
 
