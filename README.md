@@ -315,10 +315,11 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 - <img src="https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=social" height="17" align="texttop"/> [open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - a natural language interface for computers
 - <img src="https://img.shields.io/github/stars/microsoft/OmniParser?style=social" height="17" align="texttop"/> [OmniParser](https://github.com/microsoft/OmniParser) - a simple screen parsing tool towards pure vision based GUI agent
-- <img src="https://img.shields.io/github/stars/trycua/cua?style=social" height="17" align="texttop"/> [cua](https://github.com/trycua/cua) - the Docker Container for Computer-Use AI Agents
-- <img src="https://img.shields.io/github/stars/OthersideAI/self-operating-computer?style=social" height="17" align="texttop"/> [self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - a framework to enable multimodal models to operate a computer
-- <img src="https://img.shields.io/github/stars/simular-ai/Agent-S?style=social" height="17" align="texttop"/> [Agent-S](https://github.com/simular-ai/Agent-S) - an open agentic framework that uses computers like a human
 - <img src="https://img.shields.io/github/stars/different-ai/openwork?style=social" height="17" align="texttop"/> [openwork](https://github.com/different-ai/openwork) - an open-source alternative to Claude Cowork, powered by OpenCode
+- <img src="https://img.shields.io/github/stars/trycua/cua?style=social" height="17" align="texttop"/> [cua](https://github.com/trycua/cua) - the Docker Container for Computer-Use AI Agents
+- <img src="https://img.shields.io/github/stars/simular-ai/Agent-S?style=social" height="17" align="texttop"/> [Agent-S](https://github.com/simular-ai/Agent-S) - an open agentic framework that uses computers like a human
+- <img src="https://img.shields.io/github/stars/OthersideAI/self-operating-computer?style=social" height="17" align="texttop"/> [self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - a framework to enable multimodal models to operate a computer
+- <img src="https://img.shields.io/github/stars/MiniMax-AI/OpenRoom?style=social" height="17" align="texttop"/> [OpenRoom](https://github.com/MiniMax-AI/OpenRoom) - a browser-based desktop where AI Agent operates every app through natural language, from MiniMaxAI
 
 [Back to Table of Contents](#table-of-contents)
 
